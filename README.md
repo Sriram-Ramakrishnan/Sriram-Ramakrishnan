@@ -35,7 +35,7 @@
 </p>
 
 # My Stats
-
+<!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriram-Ramakrishnan&show_icons=true&locale=en" alt="Sriram-Ramakrishnan" /></p>
-
+ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram-Ramakrishnan&" alt="ravin-d-27" /></p>

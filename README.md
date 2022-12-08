@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any web development projects
 - 📫 Reach me via: [My LinkedIn Profile](https://www.linkedin.com/in/sriram-ramakrishnan-110347224/)
 
-### Languages and Tools:
+# Languages and Tools 
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://res.cloudinary.com/dpxlluhmw/image/upload/v1669950330/vscode-icons_file-type-python_c5h3xr.png" alt="python"  height="40"/> </a> 

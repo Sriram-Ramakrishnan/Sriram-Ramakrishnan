@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Task planner website using Django!
-- 🌱 I’m currently learning Django 4.0
+- 🔭 I’m currently working on a DevConnector website using MERN Stack!
+- 🌱 I’m currently learning MongoDB and Express.js
 - 👯 I’m looking to collaborate on any web development projects
 - 📫 Reach me via: [My LinkedIn Profile](https://www.linkedin.com/in/sriram-ramakrishnan-110347224/)
 

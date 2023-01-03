@@ -33,9 +33,3 @@
     <img src="https://res.cloudinary.com/dpxlluhmw/image/upload/v1669950330/vscode-icons_file-type-django_tazcra.png" alt="django" height="40"/> </a> 
     &nbsp;&nbsp;&nbsp;
 </p>
-
-# My Stats
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriram-Ramakrishnan&show_icons=true&locale=en" alt="Sriram-Ramakrishnan" /></p>
- -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram-Ramakrishnan&" alt="ravin-d-27" /></p>

@@ -4,7 +4,6 @@
 - 🔭 I’m currently learning DSA!
 - 👯 I’m looking to collaborate on any Django or MERN projects
 - 📫 Reach me via: [My LinkedIn Profile](https://www.linkedin.com/in/sriram-ramakrishnan-110347224/)
-
 <h1 align="center"> Languages and Tools </h1> 
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -33,5 +32,10 @@
     &nbsp;&nbsp;&nbsp;
 </p>
 
+<h1 align="center"> My Stats </h1>
+
+![Sriram-Ramakrishnan's Stats](https://github-readme-stats.vercel.app/api?username=Sriram-Ramakrishnan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Sriram-Ramakrishnan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-Ramakrishnan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 

@@ -1,9 +1,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a DevConnector website using MERN Stack!
-- 🌱 I’m currently learning MongoDB and Express.js
-- 👯 I’m looking to collaborate on any web development projects
+- 🔭 I’m currently learning DSA!
+- 👯 I’m looking to collaborate on any Django or MERN projects
 - 📫 Reach me via: [My LinkedIn Profile](https://www.linkedin.com/in/sriram-ramakrishnan-110347224/)
 
 <h1 align="center"> Languages and Tools </h1> 
@@ -34,9 +33,5 @@
     &nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 align="center"> My Stats </h1> 
-<p align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sriram-Ramakrishnan&theme=gruvbox_duo">
-</p>
 
 
